@@ -18,7 +18,7 @@ class SentenceGenerator(object):
         for word_index in range(len(words_list[0])):
             SentenceGenerator.sentence_permutations(words_list, 0, word_index, sentences, generated_sentences)
 
-        return generate_sentences
+        return generated_sentences
 
     @staticmethod
     def sentence_permutations(words_list, start_index, word_index, sentences, generated_sentences):
@@ -26,9 +26,9 @@ class SentenceGenerator(object):
         sentences[start_index] = words_list[start_index][word_index]
 
         if start_index == len(words_list) - 1:
-            generate_sentences.append(' '.join(sentences))
+            generated_sentences.append(' '.join(sentences))
             return
         
         for i in range(len(words_list[start_index + 1])):
-            SentenceGenerator.sentence_permutations(words_list, start_index + 1, i, sentences, generate_sentences)
+            SentenceGenerator.sentence_permutations(words_list, start_index + 1, i, sentences, generated_sentences)
 
