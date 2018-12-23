@@ -23,4 +23,4 @@ print(sentences);
 Interested in contributing to this project?
 You can log any issues or suggestion related to this library [here](https://github.com/arshadkazmi42/ak-phrase.py/issues/new)
 
-Read our contributing guide (to be updated) on getting started with contributing to the codebase
+Read our contributing [guide](CONTRIBUTING.md) on getting started with contributing to the codebase
