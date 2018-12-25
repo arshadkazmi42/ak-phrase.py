@@ -1,0 +1,9 @@
+README.md
+setup.py
+ak-phrase/__init__.py
+ak-phrase/sentence_generator.py
+ak-phrase/test.py
+ak_phrase.py.egg-info/PKG-INFO
+ak_phrase.py.egg-info/SOURCES.txt
+ak_phrase.py.egg-info/dependency_links.txt
+ak_phrase.py.egg-info/top_level.txt

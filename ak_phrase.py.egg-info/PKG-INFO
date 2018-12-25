@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: ak-phrase.py
+Version: 1.0.5
+Summary: Generates permutations of all sentences, using list of words
+Home-page: https://github.com/arshadkazmi42/ak-phrase.py
+Author: Arshad Kazmi
+Author-email: arshadkazmi42@gmail.com
+License: UNKNOWN
+Description: # ak-phrase.py
+        
+        This library generates all the permutations of sentences from words in a 2D array.
+        
+        It follows the word orders in sentence, same as the words order in array column wise.
+        
+        ## Installation
+        
+        ```
+        $ pip3 install ak-phrase.py
+        ```
+        
+        ## Usage
+        
+        ```python
+        from sentence_generator import SentenceGenerator
+        
+        word_lists = [['eat'], ['code', 'commit'], ['sleep']];
+        
+        sentences = SentenceGenerator.generate_sentences(word_lists);
+        print(sentences);
+        
+        # Output:
+        # [ 'eat code sleep', 'eat commit sleep' ]
+        ```
+        
+        ## Contributing
+        
+        Interested in contributing to this project?
+        You can log any issues or suggestion related to this library [here](https://github.com/arshadkazmi42/ak-phrase.py/issues/new)
+        
+        Read our contributing [guide](https://github.com/arshadkazmi42/ak-phrase.py/blob/master/CONTRIBUTING.md) on getting started with contributing to the codebase
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 or later (AGPLv3+)
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
