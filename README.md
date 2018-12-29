@@ -15,12 +15,11 @@ $ pip3 install ak-phrase.py
 ## Usage
 
 ```python
-from sentence_generator import SentenceGenerator
+import ak-phase.py
+word_lists = [['eat'], ['code', 'commit'], ['sleep']]
 
-word_lists = [['eat'], ['code', 'commit'], ['sleep']];
-
-sentences = SentenceGenerator.generate_sentences(word_lists);
-print(sentences);
+sentences = SentenceGenerator.generate_sentences(word_lists)
+print(sentences)
 
 # Output:
 # [ 'eat code sleep', 'eat commit sleep' ]
