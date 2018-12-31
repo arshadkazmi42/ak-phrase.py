@@ -15,7 +15,8 @@ $ pip3 install ak-phrase.py
 ## Usage
 
 ```python
-import ak-phase.py
+from ak-phase.py import SentenceGenerator
+
 word_lists = [['eat'], ['code', 'commit'], ['sleep']]
 
 sentences = SentenceGenerator.generate_sentences(word_lists)
