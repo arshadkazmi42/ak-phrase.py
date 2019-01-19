@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ak-phrase.py",
-    version="1.0.5",
+    version="1.0.6",
     author="Arshad Kazmi",
     author_email="arshadkazmi42@gmail.com",
     description="Generates permutations of all sentences, using list of words",

@@ -1,6 +1,11 @@
 # ak-phrase.py
 
-[![Build Status](https://api.travis-ci.com/arshadkazmi42/ak-phrase.js.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/ak-phrase.js)
+[![Build Status](https://api.travis-ci.com/arshadkazmi42/ak-phrase.py.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/ak-phrase.py)
+[![Repo Size](https://img.shields.io/github/languages/code-size/arshadkazmi42/ak-phrase.py.svg)](https://github.com/arshadkazmi42/ak-phrase.py)
+[![Downloads](https://img.shields.io/pypi/dm/ak-phrase.py.svg)](https://pypi.org/project/ak-phrase.py/)
+[![LICENSE](https://img.shields.io/pypi/l/ak-phrase.py.svg)](https://pypi.org/project/ak-phrase.py/)
+[![Version](https://img.shields.io/pypi/v/ak-phrase.py.svg)](https://pypi.org/project/ak-phrase.py/)
+[![Last Commit](https://img.shields.io/github/last-commit/arshadkazmi42/ak-phrase.py.svg)](https://github.com/arshadkazmi42/ak-phrase.py)
 
 This library generates all the permutations of sentences from words in a 2D array.
 
