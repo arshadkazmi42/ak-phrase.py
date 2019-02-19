@@ -42,4 +42,4 @@ Read our contributing [guide](https://github.com/arshadkazmi42/ak-phrase.py/blob
 
 Thank you to all the contributors who have helped us in making this project better :raised_hands:
 
-<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/meshack-mbuvi"><img src="https://github.com/meshack-mbuvi.png" width="30" /></a><a href="https://github.com/Saloni-prsd"><img src="https://github.com/Saloni-prsd.png" width="30" /></a><a href="https://github.com/quar17esma"><img src="https://github.com/quar17esma.png" width="30" /></a
+<a href="https://github.com/arshadkazmi42"><img src="https://github.com/arshadkazmi42.png" width="30" /></a><a href="https://github.com/meshack-mbuvi"><img src="https://github.com/meshack-mbuvi.png" width="30" /></a><a href="https://github.com/Saloni-prsd"><img src="https://github.com/Saloni-prsd.png" width="30" /></a><a href="https://github.com/quar17esma"><img src="https://github.com/quar17esma.png" width="30" /></a>
